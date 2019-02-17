@@ -1,5 +1,29 @@
 {
   "expo": {
-    "sdkVersion": "32.0.0"
+    "name": "react-native-redux-crypto-tracker",
+    "description": "",
+    "slug": "react-native-redux-crypto-tracker",
+    "privacy": "public",
+    "sdkVersion": "30.0.0",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "githubUrl": "https://github.com/LaurentiuGabriel/CryptocurrenciesMonitor"
   }
 }
